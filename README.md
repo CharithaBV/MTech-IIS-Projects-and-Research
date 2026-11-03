@@ -99,6 +99,26 @@ This repository serves as an open academic repository archiving research publica
 
 ---
 
+## Coursework & Technical Presentations
+
+An archive of technical presentations and capstone defenses delivered across core M.Tech coursework domains is curated in the [`coursework/`](coursework/) directory.
+
+| Presentation / Research Project | Course / Academic Context | Key Technologies | Slide Deck |
+|---|---|---|:---:|
+| **Thermal Imaging-Based Motor Fault Detection** | 20IS799 M.Tech Dissertation | Infrared Thermography (FLIR), ML Classification | [Slides](coursework/Thermal-Imaging-Motor-Fault-Detection.pptx) |
+| **Silica Concentrate Prediction in Mining** | 19AI716 Cloud & Big Data Analytics | PySpark, Spark Streaming, GCP Dataproc, BigQuery | [Slides](coursework/BigData-Mining-Silica-Prediction.pptx) |
+| **Cyber-Physical Agents for Irrigation** | Architecture of Intelligent Systems | Multi-Agent Systems, FAO AquaCrop Simulation | [Slides](coursework/Cyber-Physical-Irrigation-Agents.pptx) |
+| **Three-Tank Process Control & Monitoring** | Fault Detection & Diagnosis / Process Control | Hybrid Nonlinear Dynamics, State Estimation | [Slides](coursework/Three-Tank-Process-Fault-Diagnosis.pptx) |
+| **Neuro-Fuzzy Actuator FDI** | Fault Detection & Diagnosis Systems | ANFIS Neuro-Fuzzy Systems, Pneumatic Valves | [Slides](coursework/Neuro-Fuzzy-Actuator-FDI.pptx) |
+| **Smart Greenhouse IoT Automation** | Embedded Systems Design | Embedded IoT Gateway, RTOS, Python Edge AI | [Slides](coursework/Smart-Greenhouse-IoT-Automation.pptx) |
+| **IoMT Security & Privacy in Smart Healthcare** | Ubiquitous Computing & IoT Security | IoMT Firmware Analysis, Network Cryptography | [Slides](coursework/IoMT-Security-Smart-Healthcare.pptx) |
+| **RFID-Based Parking Slot Allocation** | 20RM600 Research Methodology | RFID Transceivers, HT12E/HT12D RF Encoding | [Slides](coursework/RFID-Smart-Parking-Allocation.pptx) |
+| **Music Genre Classification with ML** | Machine Learning | Acoustic Feature Extraction, MFCCs, Classifiers | [Slides](coursework/Music-Genre-Classification-ML.pptx) |
+
+> For comprehensive abstracts, methodology summaries, and technical notes on each project, refer to the [`coursework/README.md`](coursework/README.md) catalog.
+
+---
+
 ## Academic Integrity & Dissemination
 
 The research and technical documentation archived in this repository reflect original academic work conducted at Amrita Vishwa Vidyapeetham. 
