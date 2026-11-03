@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Large datasets, model weights, and checkpoints
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+*.bin
+*.npy
+*.npz
+*.tar.gz
+*.zip
+*.csv
+*.mat
+
+# LaTeX temporary and build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.xdv
+
+# MATLAB crash and autosave files
+*.asv
+*.m~
+autosave/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
