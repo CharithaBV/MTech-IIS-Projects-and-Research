@@ -15,14 +15,14 @@
 
 | Detail | Description |
 |---|---|
-| **Author** | Charitha B.V. |
+| **Author** | Charitha BV |
 | **Program** | Master of Technology in Industrial Intelligent Systems (64 Credits) |
 | **Department** | Department of Electrical & Electronics Engineering |
 | **Institution** | Amrita Vishwa Vidyapeetham, Coimbatore Campus |
 | **Duration** | September 2020 – July 2022 |
 | **Profiles** | [ORCID: 0009-0008-2367-5269](https://orcid.org/0009-0008-2367-5269) \| [LinkedIn](https://www.linkedin.com/in/charitha-reddy-114456163/) |
 
-The M.Tech program in Industrial Intelligent Systems focuses on computational intelligence, embedded systems, real-time industrial control, and data interpretation for engineering applications. This repository maintains the research publication, dissertation work, and selected coursework presentations completed during the program.
+The M.Tech program in Industrial Intelligent Systems focuses on computational intelligence, embedded systems, real-time industrial control, and data interpretation for engineering applications. This repository maintains the research publication, dissertation work, and selected coursework studies completed during the program.
 
 ---
 
@@ -62,21 +62,21 @@ The paper addresses non-contact fault detection in three-phase induction motors 
 
 ---
 
-## Coursework Presentations
+## Coursework & Applied Projects
 
-Selected presentations and project defenses from the program are archived in the [`coursework/`](coursework/) directory:
+Selected project reports and technical studies from the program are archived in the [`coursework/`](coursework/) directory:
 
-| Topic | Course | Key Topics | Slides |
+| Topic | Course | Key Topics | Document |
 |---|---|---|:---:|
-| **Thermal Imaging Motor Fault Detection** | 20IS799 Dissertation | Infrared Thermography, ML Classification | [Slides](coursework/Thermal-Imaging-Motor-Fault-Detection.pptx) |
-| **Silica Concentrate Prediction** | 19AI716 Cloud & Big Data | PySpark ML, Spark Streaming, BigQuery | [Slides](coursework/BigData-Mining-Silica-Prediction.pptx) |
-| **Cyber-Physical Irrigation Agents** | Architecture of Intelligent Systems | Multi-Agent Systems, FAO AquaCrop | [Slides](coursework/Cyber-Physical-Irrigation-Agents.pptx) |
-| **Three-Tank Process Control** | Fault Detection & Diagnosis | Nonlinear Dynamics, Sensor/Actuator Faults | [Slides](coursework/Three-Tank-Process-Fault-Diagnosis.pptx) |
-| **Neuro-Fuzzy Actuator FDI** | Fault Diagnostic Systems | ANFIS, Electro-Pneumatic Valve Diagnosis | [Slides](coursework/Neuro-Fuzzy-Actuator-FDI.pptx) |
-| **Smart Greenhouse Automation** | Embedded Systems Design | IoT Gateway, RTOS, Environmental Sensors | [Slides](coursework/Smart-Greenhouse-IoT-Automation.pptx) |
-| **IoMT Security in Healthcare** | Ubiquitous Computing | Medical Device Security, Firmware Analysis | [Slides](coursework/IoMT-Security-Smart-Healthcare.pptx) |
-| **RFID Parking Slot Allocation** | 20RM600 Research Methodology | RFID, RF Encoding, Sensor Interfacing | [Slides](coursework/RFID-Smart-Parking-Allocation.pptx) |
-| **Music Genre Classification** | Machine Learning | Audio Feature Extraction, MFCCs, SVM/LR | [Slides](coursework/Music-Genre-Classification-ML.pptx) |
+| **Thermal Imaging Motor Fault Detection** | 20IS799 Dissertation | Infrared Thermography, ML Classification | [PDF](coursework/Thermal-Imaging-Motor-Fault-Detection.pdf) |
+| **Silica Concentrate Prediction** | 19AI716 Cloud & Big Data | PySpark ML, Spark Streaming, BigQuery | [PDF](coursework/BigData-Mining-Silica-Prediction.pdf) |
+| **Cyber-Physical Irrigation Agents** | Architecture of Intelligent Systems | Multi-Agent Systems, FAO AquaCrop | [PDF](coursework/Cyber-Physical-Irrigation-Agents.pdf) |
+| **Three-Tank Process Control** | Fault Detection & Diagnosis | Nonlinear Dynamics, Sensor/Actuator Faults | [PDF](coursework/Three-Tank-Process-Fault-Diagnosis.pdf) |
+| **Neuro-Fuzzy Actuator FDI** | Fault Diagnostic Systems | ANFIS, Electro-Pneumatic Valve Diagnosis | [PDF](coursework/Neuro-Fuzzy-Actuator-FDI.pdf) |
+| **Smart Greenhouse Automation** | Embedded Systems Design | IoT Gateway, RTOS, Environmental Sensors | [PDF](coursework/Smart-Greenhouse-IoT-Automation.pdf) |
+| **IoMT Security in Healthcare** | Ubiquitous Computing | Medical Device Security, Firmware Analysis | [PDF](coursework/IoMT-Security-Smart-Healthcare.pdf) |
+| **RFID Parking Slot Allocation** | 20RM600 Research Methodology | RFID, RF Encoding, Sensor Interfacing | [PDF](coursework/RFID-Smart-Parking-Allocation.pdf) |
+| **Music Genre Classification** | Machine Learning | Audio Feature Extraction, MFCCs, SVM/LR | [PDF](coursework/Music-Genre-Classification-ML.pdf) |
 
 Detailed project descriptions and references are available in [`coursework/README.md`](coursework/README.md).
 

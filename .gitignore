@@ -52,6 +52,10 @@ venv.bak/
 *.csv
 *.mat
 
+# Office and presentation files
+*.pptx
+*.ppt
+
 # LaTeX temporary and build files
 *.aux
 *.bbl
